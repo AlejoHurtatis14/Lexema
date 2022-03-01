@@ -1,0 +1,21 @@
+util "archivo.js"
+
+cls "clase_prueba" ext "clase_padre" {
+  ent numerito = 0;
+  text palabra = "";
+}
+
+cls "otra_clase" imple "interface" {
+  carac caracter prueba = "c";
+}
+
+if (true) {
+  seg;
+  regre "hola"; 
+}
+
+for (var i = 0; i < 0; i++) {
+  stop;
+}
+
+var prueba = {"a": 1, "b": null, "c": false, "d": "d"};
